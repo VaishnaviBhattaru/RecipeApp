@@ -8,7 +8,8 @@ import MarkdownView from 'react-showdown';
 // import API_KEY from ".env"
 
 function App() {
-  const apiKey = import.meta.env.VITE_API_KEY;
+  // const apiKey = import.meta.env.VITE_API_KEY;
+  const apiKey = "AIzaSyCflhFwX3c2nVjkzvX4XzcrwyYq1U8nNvQ"
   const [inp,setInp] = useState("")
   const [recipe,setRecpie] = useState("")
   const[loading,setLoading] = useState(false)
