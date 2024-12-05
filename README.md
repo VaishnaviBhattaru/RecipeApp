@@ -28,17 +28,15 @@ npm install
 
 Run the Application:
 
-bash
-Copy code
-npm start
+
+Copy code- npm start
 
 Build for Production:
 
-bash
-Copy code
-npm run build
-Deploy:
 
+Copy code -  npm run build
+
+Deploy:
 You can deploy the app using platforms like Netlify, Vercel, or AWS.
 Usage
 Search for a Recipe: Enter the name of any dish in the search bar.
