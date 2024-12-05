@@ -25,11 +25,13 @@ Install Dependencies:
 bash
 Copy code
 npm install
+
 Run the Application:
 
 bash
 Copy code
 npm start
+
 Build for Production:
 
 bash
@@ -45,8 +47,6 @@ Explore Alternatives: The app suggests ingredient substitutions or similar dishe
 Contributions
 Contributions, issues, and feature requests are welcome! Feel free to check out the issues page if you want to contribute.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
 If you have any questions or suggestions, feel free to reach out to me at:
